@@ -3,7 +3,7 @@
 
 Road Network Visualization is a Python application that allows users to visualize road networks for specific countries and cities using OpenStreetMap data. The application provides a user-friendly interface where users can input the country and city names to generate a visual representation of the road network.
 
-![Road Network Visualization](screenshot.png)
+
 
 ## Features
 
@@ -40,9 +40,26 @@ Contributing
 
 Contributions to the Road Network Visualization project are welcome. Here are a few ways you can contribute:
 
-- Report bugs and issues
-- Suggest new features or enhancements
-- Submit pull requests with bug fixes or feature implementations
+    Fork the repository.
+    Create a new branch.
+    Make your improvements.
+    Commit your changes.
+    Push your branch.
+    Submit a pull request.
+
+License
+
+The Road Network Visualization project is licensed under the MIT License. See the LICENSE file for more details.
+Acknowledgements
+
+The Road Network Visualization project utilizes the following open-source libraries:
+
+    OSMnx
+    Tkinter
+    Geopy
+    pycountry
+
+Special thanks to the developers and contributors of these libraries.
 
 License
 
