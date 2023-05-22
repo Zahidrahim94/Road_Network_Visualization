@@ -50,6 +50,7 @@ Contributions to the Road Network Visualization project are welcome. Here are a 
 License
 
 The Road Network Visualization project is licensed under the MIT License. See the LICENSE file for more details.
+
 Acknowledgements
 
 The Road Network Visualization project utilizes the following open-source libraries:
@@ -59,22 +60,7 @@ The Road Network Visualization project utilizes the following open-source librar
     Geopy
     pycountry
 
-Special thanks to the developers and contributors of these libraries.
-
-License
-
-The Road Network Visualization project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-Acknowledgements
-
-The Road Network Visualization project utilizes the following open-source libraries:
-
-- OSMnx: https://github.com/gboeing/osmnx
-- Tkinter: https://docs.python.org/3/library/tkinter.html
-- Geopy: https://github.com/geopy/geopy
-- pycountry: https://github.com/flyingcircusio/pycountry
-
-Special thanks to the developers and contributors of these libraries.
+Special thanks to the developers and contributors of these librarie
 
 Contact
 
