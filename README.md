@@ -3,6 +3,9 @@
 
 Road Network Visualization is a Python application that allows users to visualize road networks for specific countries and cities using OpenStreetMap data. The application provides a user-friendly interface where users can input the country and city names to generate a visual representation of the road network.
 
+![Figure_1](https://github.com/user-attachments/assets/eb6529db-2ad7-494d-ade4-85b22cd9cabb)
+![Figure_3](https://github.com/user-attachments/assets/132bdb4a-9d63-4511-acfb-06d948458715)
+![Figure_2](https://github.com/user-attachments/assets/b6794ddb-9818-4748-9c75-7d06e8459670)
 
 
 ## Features
